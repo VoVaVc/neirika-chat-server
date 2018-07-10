@@ -1,0 +1,14 @@
+{
+  "db_config" : {
+    "uri": "mongodb://main-user:Some1Pass6T@ds131711.mlab.com:31711/neirika-chat"
+  },
+
+  "app_config":{
+  	"default_limits" : {
+  		"from": 0,
+  		"to": 20
+  	},
+
+  	"jwt_secret": "tsss,itisase23$Rcretsupe23spysecret3487grIUAWHG&Ykjhgwef$%^#*^@"
+  }
+}
